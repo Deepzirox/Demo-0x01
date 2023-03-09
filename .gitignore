@@ -1,0 +1,17 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]nityGenerated/
+/[Uu]nityPackageManager/
+/[Uu]nityCrashHandler64.exe
+/[Uu]nityCrashHandler32.exe
+
+# Visual Studio Code generated
+.vscode/
+/*.csproj
+/*.unityproj
+/*.sln
